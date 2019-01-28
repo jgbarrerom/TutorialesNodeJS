@@ -1,0 +1,28 @@
+{
+  "name": "tutonode",
+  "version": "1.0.0",
+  "description": "Tutoriales de node mas npm",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jgbarrerom/TutorialesNodeJS.git"
+  },
+  "keywords": [
+    "npm",
+    "nodejs",
+    "tutorial",
+    "principiante"
+  ],
+  "author": "JBarreroM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jgbarrerom/TutorialesNodeJS/issues"
+  },
+  "homepage": "https://github.com/jgbarrerom/TutorialesNodeJS#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
