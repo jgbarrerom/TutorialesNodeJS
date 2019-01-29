@@ -1,4 +1,10 @@
 # TutorialesNodeJS
 The objective of this repository is to obtain new skills for the management of nodejs
-#Jeisson Barrero 26 de Enero 2018
-Se agrego archivos de tutoria de nodejs
+## Instalation
+Use the package manager npm to install all dependences
+```bash
+npm install
+
+```
+## Deploy
+Para desplegar se ejecuta node home.
