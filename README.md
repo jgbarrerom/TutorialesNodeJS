@@ -7,4 +7,7 @@ npm install
 
 ```
 ## Deploy
-Para desplegar se ejecuta node home.
+To deploy, execute the next command
+```bash
+node home.js
+```
